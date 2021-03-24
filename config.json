@@ -1,0 +1,87 @@
+[{
+ 	"ConfigVersion": "1.1",
+ 	"vmess": "cronoksjsongen"
+ }, {
+ 	"Name": "hongkong",
+ 	"Flag": "hk",
+ 	"vmess": "vmess://eyJhZGQiOiJvbmV0cnVzdC5jb20iLCJhaWQiOiIxIiwiaG9zdCI6InMxMTUuc25vZGVzLnh5eiIsImlkIjoiNGIzZjYzYTMtMzJkNS0zYWQzLWJiYjYtNTFjMGMwNjBiYzU4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhbmVsIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HrfCfh7BTVFMgVklQIDAxIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+ }, {
+ 	"Name": "United States",
+ 	"Flag": "us",
+ 	"vmess": "vmess://eyJhZGQiOiJvbmV0cnVzdC5jb20iLCJhaWQiOiIxIiwiaG9zdCI6InMzMTQuc25vZGVzLnh5eiIsImlkIjoiNGIzZjYzYTMtMzJkNS0zYWQzLWJiYjYtNTFjMGMwNjBiYzU4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhbmVsIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HrfCfh7BTVFMgVklQIDAyIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+ }, {
+ 	"Name": "United States",
+ 	"Flag": "us",
+ 	"vmess": "vmess://eyJhZGQiOiJvbmV0cnVzdC5jb20iLCJhaWQiOiIxIiwiaG9zdCI6InMzMTcuc25vZGVzLnh5eiIsImlkIjoiNGIzZjYzYTMtMzJkNS0zYWQzLWJiYjYtNTFjMGMwNjBiYzU4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhbmVsIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HrfCfh7BTVFMgVklQIDAzIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiJvbmV0cnVzdC5jb20iLCJhaWQiOiIxIiwiaG9zdCI6InMxNjEuc25vZGVzLnh5eiIsImlkIjoiNGIzZjYzYTMtMzJkNS0zYWQzLWJiYjYtNTFjMGMwNjBiYzU4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhbmVsIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HrfCfh7BTVFMgVklQIDA0IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiJvbmV0cnVzdC5jb20iLCJhaWQiOiIxIiwiaG9zdCI6InM1NC5zbm9kZXMueHl6IiwiaWQiOiI0YjNmNjNhMy0zMmQ1LTNhZDMtYmJiNi01MWMwYzA2MGJjNTgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGFuZWwiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4et8J+HsFNUUyBWSVAgMDUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+ 
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiI6OmZmZmY6NjgxMTo0MDAzIiwiYWlkIjoiMSIsImhvc3QiOiJzMTE1LnNub2Rlcy54eXoiLCJpZCI6IjRiM2Y2M2EzLTMyZDUtM2FkMy1iYmI2LTUxYzBjMDYwYmM1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYW5lbCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewR1RNIFZJUCAwMSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiI6OmZmZmY6NjgxMTo0MDAzIiwiYWlkIjoiMSIsImhvc3QiOiJzMzE0LnNub2Rlcy54eXoiLCJpZCI6IjRiM2Y2M2EzLTMyZDUtM2FkMy1iYmI2LTUxYzBjMDYwYmM1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYW5lbCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewR1RNIFZJUCAwMiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiI6OmZmZmY6NjgxMTo0MDAzIiwiYWlkIjoiMSIsImhvc3QiOiJzMzE3LnNub2Rlcy54eXoiLCJpZCI6IjRiM2Y2M2EzLTMyZDUtM2FkMy1iYmI2LTUxYzBjMDYwYmM1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYW5lbCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewR1RNIFZJUCAwMyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiI6OmZmZmY6NjgxMTo0MDAzIiwiYWlkIjoiMSIsImhvc3QiOiJzMTYxLnNub2Rlcy54eXoiLCJpZCI6IjRiM2Y2M2EzLTMyZDUtM2FkMy1iYmI2LTUxYzBjMDYwYmM1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYW5lbCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewR1RNIFZJUCAwNCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiI6OmZmZmY6NjgxMTo0MDAzIiwiYWlkIjoiMSIsImhvc3QiOiJzNTQuc25vZGVzLnh5eiIsImlkIjoiNGIzZjYzYTMtMzJkNS0zYWQzLWJiYjYtNTFjMGMwNjBiYzU4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhbmVsIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HrfCfh7BHVE0gVklQIDA1IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+ 
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiI6OmZmZmY6NjgxMTo0MDAzIiwiYWlkIjoiMSIsImhvc3QiOiJzMTE1LnNub2Rlcy54eXoiLCJpZCI6IjRiM2Y2M2EzLTMyZDUtM2FkMy1iYmI2LTUxYzBjMDYwYmM1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYW5lbCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewR09NTyBWSVAgMDEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiI6OmZmZmY6NjgxMTo0MDAzIiwiYWlkIjoiMSIsImhvc3QiOiJzMzE0LnNub2Rlcy54eXoiLCJpZCI6IjRiM2Y2M2EzLTMyZDUtM2FkMy1iYmI2LTUxYzBjMDYwYmM1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYW5lbCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewR09NTyBWSVAgMDIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiI6OmZmZmY6NjgxMTo0MDAzIiwiYWlkIjoiMSIsImhvc3QiOiJzMzE3LnNub2Rlcy54eXoiLCJpZCI6IjRiM2Y2M2EzLTMyZDUtM2FkMy1iYmI2LTUxYzBjMDYwYmM1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYW5lbCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewR09NTyBWSVAgMDMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiI6OmZmZmY6NjgxMTo0MDAzIiwiYWlkIjoiMSIsImhvc3QiOiJzMTYxLnNub2Rlcy54eXoiLCJpZCI6IjRiM2Y2M2EzLTMyZDUtM2FkMy1iYmI2LTUxYzBjMDYwYmM1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYW5lbCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewR09NTyBWSVAgMDQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiI6OmZmZmY6NjgxMTo0MDAzIiwiYWlkIjoiMSIsImhvc3QiOiJzNTQuc25vZGVzLnh5eiIsImlkIjoiNGIzZjYzYTMtMzJkNS0zYWQzLWJiYjYtNTFjMGMwNjBiYzU4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhbmVsIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HrfCfh7BHT01PIFZJUCAwNSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+ 
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiJkaXRvLnBoIiwiYWlkIjoiMSIsImhvc3QiOiJzMTE1LnNub2Rlcy54eXoiLCJpZCI6IjRiM2Y2M2EzLTMyZDUtM2FkMy1iYmI2LTUxYzBjMDYwYmM1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYW5lbCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewRElUTyBWSVAgMDEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiJkaXRvLnBoIiwiYWlkIjoiMSIsImhvc3QiOiJzMzE0LnNub2Rlcy54eXoiLCJpZCI6IjRiM2Y2M2EzLTMyZDUtM2FkMy1iYmI2LTUxYzBjMDYwYmM1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYW5lbCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewRElUTyBWSVAgMDIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiJkaXRvLnBoIiwiYWlkIjoiMSIsImhvc3QiOiJzMzE3LnNub2Rlcy54eXoiLCJpZCI6IjRiM2Y2M2EzLTMyZDUtM2FkMy1iYmI2LTUxYzBjMDYwYmM1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYW5lbCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewRElUTyBWSVAgMDMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiJkaXRvLnBoIiwiYWlkIjoiMSIsImhvc3QiOiJzMTYxLnNub2Rlcy54eXoiLCJpZCI6IjRiM2Y2M2EzLTMyZDUtM2FkMy1iYmI2LTUxYzBjMDYwYmM1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYW5lbCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewRElUTyBWSVAgMDQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiJkaXRvLnBoIiwiYWlkIjoiMSIsImhvc3QiOiJzNTQuc25vZGVzLnh5eiIsImlkIjoiNGIzZjYzYTMtMzJkNS0zYWQzLWJiYjYtNTFjMGMwNjBiYzU4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhbmVsIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HrfCfh7BESVRPIFZJUCAwNSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+ }]
