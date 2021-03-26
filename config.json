@@ -1,5 +1,5 @@
 [{
- 	"ConfigVersion": "1.1",
+ 	"ConfigVersion": "1.2",
  	"vmess": "cronoksjsongen"
  }, {
  	"Name": "hongkong",
@@ -126,4 +126,13 @@
  	"Name": "SINGAPORE",
  	"Flag": "sg",
  	"vmess": "vmess://eyJhZGQiOiI6OmZmZmY6NjgxMTo0MDAzIiwiYWlkIjoiMSIsImhvc3QiOiJzMTgwLnNub2Rlcy54eXoiLCJpZCI6IjRiM2Y2M2EzLTMyZDUtM2FkMy1iYmI2LTUxYzBjMDYwYmM1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYW5lbCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewR1RNIEZBU1QgMDUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+
+}, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiJvbmV0cnVzdC5jb20iLCJhaWQiOiI2NCIsImhvc3QiOiJpbmNzLm1hcmtraW5nZHVyYW4uY29tIiwiaWQiOiJmMDNmM2VmNC1lMTZiLTQ2ZTctODM1Zi1jMDMyZmNiMDI5MzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIva2luZyIsInBvcnQiOiI0NDMiLCJwcyI6IlNUUyBNQVJLIDAxIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+ }, {
+ 	"Name": "SINGAPORE",
+ 	"Flag": "sg",
+ 	"vmess": "vmess://eyJhZGQiOiI6OmZmZmY6NjgxMTo0MDAzIiwiYWlkIjoiNjQiLCJob3N0IjoiaW5jcy5tYXJra2luZ2R1cmFuLmNvbSIsImlkIjoiNzE2ZDY5OTAtODQ5Ny00N2NkLWUzMDYtNmFlYTlkMWI0NTc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL21hcmsiLCJwb3J0IjoiMjA1MyIsInBzIjoiR1RNIE1BUksgMDEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
  }]
